@@ -9,7 +9,7 @@
 ## Usage
 
 ```shell
-npm install --save-dev mocha forgiven forgiven-jasmine
+npm install --save-dev jasmine forgiven forgiven-jasmine
 ```
 
 ```javascript
