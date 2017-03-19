@@ -1,6 +1,6 @@
 {
   "name": "forgiven-jasmine",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Jasmine UI factory for Forgiven",
   "main": "lib/index.js",
   "scripts": {
