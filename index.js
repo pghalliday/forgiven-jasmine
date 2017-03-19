@@ -1,4 +1,4 @@
 import {
   jasmine,
 } from './src';
-global.forgiven.jasmine = jasmine;
+global.forgiven.ui.jasmine = jasmine;
